@@ -11,7 +11,7 @@ const Loading = () => {
       id='loading'
       className={transitioning || (progress < 100 && total !== 0) ? '' : 'out'}
     >
-      <h1>Loading</h1>
+      <h1>Loading Awesomeness!</h1>
 
       <div className='wrapper'>
         <p>{Math.floor(progress)}%</p>
