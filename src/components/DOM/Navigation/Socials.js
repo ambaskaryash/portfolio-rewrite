@@ -12,7 +12,7 @@ const Socials = () => {
 
       <div id='nav-socials'>
         <a
-          href='https://twitter.com/__jberesford__'
+          href='https://twitter.com/kimetsu119'
           target='_blank'
           rel='noreferrer'
         >
