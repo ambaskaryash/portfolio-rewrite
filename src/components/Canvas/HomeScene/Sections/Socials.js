@@ -95,7 +95,7 @@ const Socials = ({ angle }) => {
                 onPointerEnter={() => setTwitterHovered(true)}
                 onPointerLeave={() => setTwitterHovered(false)}
                 onClick={() =>
-                  window.open('https://twitter.com/__jberesford__', '_blank')
+                  window.open('https://twitter.com/kimetsu119', '_blank')
                 }
                 scale={twitterScale}
               >
@@ -115,7 +115,7 @@ const Socials = ({ angle }) => {
                 onPointerLeave={() => setLinkedinHovered(false)}
                 onClick={() =>
                   window.open(
-                    'https://www.linkedin.com/in/jmberesford/',
+                    'https://www.linkedin.com/in/yash-ambaskar119/',
                     '_blank'
                   )
                 }
@@ -137,7 +137,7 @@ const Socials = ({ angle }) => {
                 onPointerLeave={() => setInstagramHovered(false)}
                 onClick={() =>
                   window.open(
-                    'https://www.instagram.com/beresforddesign/',
+                    'https://www.instagram.com/game_ofmorons/',
                     '_blank'
                   )
                 }
