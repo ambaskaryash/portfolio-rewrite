@@ -24,7 +24,7 @@ const Socials = () => {
           />
         </a>
         <a
-          href='https://www.linkedin.com/in/yash-ambaskar119//'
+          href='https://www.linkedin.com/in/yash-ambaskar119/'
           target='_blank'
           rel='noreferrer'
         >
